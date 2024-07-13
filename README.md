@@ -1,3 +1,3 @@
 # Deepanshu-
 Resume Web Page 
-                                       https://deepanshu-khandelwal.github.io/resume/
+                                       https://deepanshu-khandelwal.github.io/Resume/
